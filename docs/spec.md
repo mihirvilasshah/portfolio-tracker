@@ -189,6 +189,8 @@ CAS parsing is handled using a Supabase Edge Function.
 | timestamp | timestamp | |
 
 ### `prices`
+| column | type | description |
+|--------|--------|-------------|
 | instrument_id | uuid | |
 | timestamp | timestamp | |
 | price | numeric | |
