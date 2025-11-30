@@ -2,7 +2,8 @@
   "expo": {
     "scheme": "acme",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-system-ui"
     ],
     "name": "portfolio-tracker",
     "slug": "portfolio-tracker"
