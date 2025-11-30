@@ -26,3 +26,6 @@ npx expo start
 "Build Sprint 0 using spec.md: setup Supabase, Expo, TypeScript, 
 implement basic auth and dashboard skeleton. Reference the database 
 schema from section 5 and navigation structure from section 7."
+
+### Create a plan
+Build the app step-by-step by focusing on one task at a time @spec.md
